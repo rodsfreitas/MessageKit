@@ -24,6 +24,7 @@
 
 import Foundation
 import UIKit
+import CoreGraphics
 
 open class MediaMessageSizeCalculator: MessageSizeCalculator {
 

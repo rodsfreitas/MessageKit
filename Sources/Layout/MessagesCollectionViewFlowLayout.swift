@@ -25,6 +25,7 @@
 import Foundation
 import UIKit
 import AVFoundation
+import CoreGraphics
 
 /// The layout object used by `MessagesCollectionView` to determine the size of all
 /// framework provided `MessageCollectionViewCell` subclasses.

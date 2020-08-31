@@ -23,6 +23,7 @@
  */
 
 import UIKit
+import CoreGraphics
 
 /// The layout attributes used by a `MessageCollectionViewCell` to layout its subviews.
 open class MessagesCollectionViewLayoutAttributes: UICollectionViewLayoutAttributes {

@@ -23,6 +23,7 @@
  */
 
 import UIKit
+import CoreGraphics
 
 open class TypingCellSizeCalculator: CellSizeCalculator {
 

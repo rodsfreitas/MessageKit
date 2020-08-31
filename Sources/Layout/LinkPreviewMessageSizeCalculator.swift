@@ -23,6 +23,8 @@
  */
 
 import Foundation
+import CoreGraphics
+import UIKit
 
 open class LinkPreviewMessageSizeCalculator: TextMessageSizeCalculator {
 
